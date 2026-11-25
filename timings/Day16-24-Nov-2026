@@ -1,0 +1,22 @@
+In todays morning session was about ELK stack. The full form of ELKis Elasticsearch, Logstash and Kibana.
+
+i explain the working ELK with example
+
+Like whenever we the issues with any server or application we usually check its logs to find out what went wrong.
+suppose we might need to check logs from Gitlab, ec2 servers ,applications and eks clusters.
+
+Now imagine we have 100, 200 or 500 plus servers and applications so in this scenario it not possible to check logs from each and every machines mannualy and if try it is very time consuming.
+
+So this is where the ELK help us.
+
+There are mainly three components of ELk Stack.
+
+Logstash- Logstash collect the logs from different sources and it also helps us to filter and parse the logs which means converting raw log in to structured and understandable format.
+
+second id Elasticserch- after proccessing , Logstash sends the logs to Elasticsearch, Elasticsearch stores and indexes the logs so that we can search and analize logs 
+
+Third is Kibana- Kibana provides a user- friendly user interface. it helps us to visualize the logs throughh Dashboards, charts, graphs and tables.We can also search for the specific errors and monitor whats happening in our application.
+
+i practiced of code.
+
+and i will upload the introduction video in this evening.	
