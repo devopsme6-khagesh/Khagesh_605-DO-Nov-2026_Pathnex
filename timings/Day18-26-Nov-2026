@@ -1,0 +1,16 @@
+Hi Good evening everyone! In todays session we learned about SSL and TLS. The full form of SSL is secure socket layer and TLS stands for Transport layer security.
+
+These are the security protocol over the network used for protect communication between client web browser and sever.
+
+if i xplain it with a example
+Suppose i open website like pathnex.com and send a massage hello pathnex and server recieves the massage and reply like hey student how may help you now imagine if this is a confidential communication and not incripted instead of normal conversation so someone who is sitting over the network between communication of client brwoser and server may able to read and intercept the data.
+
+even it may be network operator like ISP may able to get the information about communication happening between my browser and server.
+
+So to avoid this we use SSL and TLS.
+
+when we visit the https site, tls helps to establish a secure connection between web broswer and server. with encryption.
+
+I will upload my introduction video in evening.
+
+I practiced of english speaking for 30..20 minutes.

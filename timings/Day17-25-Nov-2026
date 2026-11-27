@@ -1,0 +1,16 @@
+Hi Good evening , in todays's class we learned about apache kafka
+kafka is a distributed streaming platform. it is used to transfer data from one application to another in real time.
+
+if i explain it with an example.
+
+suppose we are using cab booking application it can be ola, uber , rapoido etc
+
+When we as a customer book a cab then many activity happens at a same time. for example, finding nearby drivers, updating driver location, sending notifications regarding cab booking and tracking the ride.
+
+now , instead of these applcations making communications directly with eachother. we can use kafka to transfer information between them in real time.
+
+if i talk about components of Kafka.
+
+first is Producer that is service to use send massages to kafka. like if a customer book a cab, the cab booking application send the ride details to kafka.
+
+Second is Topic that is like a cotegory where massages are store. for example we can create topic of ride details to store all ride details informarion.
